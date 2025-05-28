@@ -4,7 +4,7 @@ A Powershell module that opens various links and resources to get in the zone fo
 
 ## Installation Guide: 
 
-This module can be installed by running the following commands
+This module can be installed by running the following command in either Powershell 5.1 or 7+ (Powershell 7+ is recommended over 5.1)
 
 ```
 Install-Module -Name Warhammer40kTools
